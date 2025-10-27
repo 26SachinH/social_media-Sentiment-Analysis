@@ -96,4 +96,5 @@ Pandas – Data Preprocessing
 
 Joblib – Model Persistence
 
-HTML/CSS (Jinja Templates) – Frontend
+Frontend- HTML/CSS (Jinja Templates) 
+<img width="1918" height="906" alt="Screenshot 2025-10-27 214929" src="https://github.com/user-attachments/assets/af0ae580-7600-4b4d-80ad-93af85d5ceed" />
